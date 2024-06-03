@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "First post",
+      "datetime": "Jan 09,2021",
+      "body": "Beach"
+    },
+    {
+      "id": "2",
+      "title": "Second post",
+      "datetime ": "Feb 18,2021",
+      "body": "Resort Beach"
+    },
+    {
+      "id": "3",
+      "title": "Third post",
+      "datetime": "Mar 09,2021",
+      "body": "Temple"
+    },
+    {
+      "id": "4",
+      "title": "Fourth post",
+      "datetime": "Apr 19,2021",
+      "body": "College"
+    },
+    {
+      "id": "41",
+      "title": "Fifth post ",
+      "datetime": "March 22, 2024 11:27:15 PM",
+      "body": "habfndsn"
+    }
+  ]
+}
